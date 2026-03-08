@@ -1,6 +1,6 @@
 # 📦 App Collection / 软件资源库
 
-## 🚀 Downloads / 下载 / Descargas
+## 🚀 Downloads / 下载
 [Check the Releases section](https://github.com/...)
 
 ### 🎧 我的听书 (Tingshu)
